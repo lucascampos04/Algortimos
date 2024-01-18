@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "RomanInteger",
+      "request": "launch",
+      "mainClass": "RomanInteger",
+      "projectName": "Algortimos_41294f50"
+    },
+    {
+      "type": "java",
       "name": "App",
       "request": "launch",
       "mainClass": "App",
