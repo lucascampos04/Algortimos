@@ -22,8 +22,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Lucas/Documents/GitHub/Algortimos/C",
-      "program": "c:/Users/Lucas/Documents/GitHub/Algortimos/C/build/Debug/outDebug",
+      "cwd": "c:/Users/Lucas/Documents/Github/Algortimos/C",
+      "program": "c:/Users/Lucas/Documents/Github/Algortimos/C/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
